@@ -1,2 +1,2 @@
 def square(a, b):
-    pass
+    return a^b
