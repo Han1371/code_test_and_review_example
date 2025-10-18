@@ -20,4 +20,4 @@
 
 ### Fixed
 
-- Added `multiply(a, b)` function in `functions.py` to perform multiply.
+- Fixed `multiply(a, b)` function in `functions.py` to perform multiply.
