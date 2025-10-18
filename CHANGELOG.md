@@ -12,6 +12,13 @@
 - Created `requirements.txt` for managing project dependencies.
 - Provided `README.md` with basic project information and setup instructions.
 
+
+## [1.0.1] - 2025-10-18
+
+### Added
+
+- Added `multiply(a, b)` function in `functions.py` to perform division.
+
 ## [1.0.2] 2025-10-18
 
 ### Added
