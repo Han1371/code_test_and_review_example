@@ -7,4 +7,5 @@ def minus(a, b):
     return a - b
 
 def divide(a, b):
-	pass
+	"""Divide a by b."""
+    return a / b

@@ -17,3 +17,9 @@
 ### Added
 
 - Added `divide(a, b)` function in `functions.py` to perform division.
+
+## [1.0.3] - 2025-10-18
+
+### Fixed
+
+- Fixed divide(a, b) function in functions.py to perform division.
