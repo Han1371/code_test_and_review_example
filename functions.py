@@ -9,3 +9,7 @@ def minus(a, b):
 def multiply(a, b):
     """Multiply a and b."""
     return a * b
+
+def square(a, b):
+    """a to the power of b"""
+    return a^b
