@@ -7,4 +7,5 @@ def minus(a, b):
     return a - b
 
 def square(a, b):
-    pass
+    """a to the power of b"""
+    return a^b

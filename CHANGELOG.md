@@ -17,3 +17,6 @@
 ### Added
 
 - Added square(a, b) function in functions.py to perform division.
+
+### Fixed
+- Fixed square(a, b) function in functions.py to perform division. 
